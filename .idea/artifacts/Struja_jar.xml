@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Struja:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Struja_jar</output-path>
+    <root id="archive" name="Struja.jar">
+      <element id="module-output" name="Struja" />
+    </root>
+  </artifact>
+</component>
