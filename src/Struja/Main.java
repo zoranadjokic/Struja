@@ -59,6 +59,7 @@ public class Main extends Application {
     static Double pzntCena;
     static Double pzntPotrosnja;
 
+    //Zorana
 
     @Override
     public void start(Stage primaryStage) throws Exception {
@@ -418,7 +419,7 @@ public class Main extends Application {
                     cenaPoJedinici = Double.parseDouble(tfCena.getText());
                     ukupno1 = potrosnja * cenaPoJedinici;
                     lbUkupno1.setText(ukupno1.toString());
-                    
+
                     trosak = Double.parseDouble(tfTrosak.getText());
                     ukupno2 = trosak / 2;
 
